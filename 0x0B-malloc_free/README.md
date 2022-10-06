@@ -27,6 +27,6 @@ memory was available
 https://alx-intranet.hbtn.io/projects/222  
 https://man7.org/linux/man-pages/man3/strdup.3.html  
 https://www.youtube.com/watch?v=xDVC3wKjS64  
-It is very important to watch previous video from above UTube channel in order to understand memory allocation  
+It is very important to watch previous video from above YouTube channel in order to understand memory allocation  
 better. Link provided below:  
 https://www.youtube.com/watch?v=_8-ht2AKyH4&t=29s&ab_channel=mycodeschool  
